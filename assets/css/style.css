@@ -1,0 +1,18 @@
+*{
+	background-color:  #ffd1b3;
+}
+
+#headerOne{
+	font-family: 'Russo One', sans-serif;
+	text-align: center;
+}
+input{
+	font-family: 'Chewy', cursive;
+
+}
+form{
+	text-align: center;
+}
+.giphy{
+	margin: 0 auto;
+}

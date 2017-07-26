@@ -49,6 +49,9 @@ $(document).ready(function(){
     }
 
       function displayImage(){
+
+
+
         for(var i = 0; i < imageArray.length ; i++){
 
 
@@ -60,7 +63,7 @@ $(document).ready(function(){
         imgTag.attr("data-animate", imageAnimateArray[i]);
         imgTag.attr("data-state","still");
         
-
+        
         $(".search").append(imgTag);
         }
       } 
